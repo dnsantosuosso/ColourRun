@@ -1,6 +1,6 @@
-# COMP3329
+# Colour Run Game
 Colour run
-For COMP329 Game Development.
+For The University of Hong Kong COMP329 Game Development.
 
 To run
 
